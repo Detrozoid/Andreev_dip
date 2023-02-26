@@ -1,0 +1,11 @@
+---
+# vars file for roles/bastion
+web_1: fhmfcmmitn3b5nojlqvb
+web_2: epdui549jidlenotcndd
+monitor: fhmbntrobdr3r3tcbsn8
+grafana: fhmmi9c5eha87ecoj5ve
+elastic: fhmmvd0i39u7f87qucee
+kibana: fhmohrpg0cnnrc3dei8e
+bastion: fhmj7kaat4tenma9qp8j
+nat: fhmbcb4769o2tk9polem
+snapshot_schedule: 30 15 */1 * *
